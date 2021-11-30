@@ -1,2 +1,3 @@
 # Berlog
-Personal blog
+
+> Personal blog, engined by [Hugo](https://gohugo.io/), to record learning, thoughts...
